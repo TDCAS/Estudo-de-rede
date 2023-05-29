@@ -9,3 +9,7 @@ Modelo-osi
 ## Tipo de transmição/Protocolo e PDU
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/182031a1-dc84-4992-867e-25ddc8dcc8ec)
 
+## Camadas do Tcp/ip
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/138cd64f-5823-4cab-ab80-e979ca7d8c19)
+
+
