@@ -13,3 +13,10 @@ Modelo-osi
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/138cd64f-5823-4cab-ab80-e979ca7d8c19)
 
 
+### São dividido em 4 camadas
+
+## Quarta camada Aplicação
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/aab674a7-2c30-4dee-80f4-bbf9dc210d5b)
+
+  
