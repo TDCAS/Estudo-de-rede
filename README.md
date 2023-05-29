@@ -20,3 +20,15 @@ Modelo-osi
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/aab674a7-2c30-4dee-80f4-bbf9dc210d5b)
 
   
+## Terceira camada Trasnporte
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/ebd8e076-3610-4b7b-9bcf-f629f2573d7d)
+
+## Segunda camada Internet (entre redes)
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/ced02d47-c1d4-44cd-8320-8763c1e8685c)
+
+## Primeira camada Acesso a rede
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/d4c42959-3830-44af-b9ae-057be4a49aac)
+
