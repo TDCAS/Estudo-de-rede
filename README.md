@@ -30,5 +30,5 @@ Modelo-osi
 
 ## Primeira camada Acesso a rede
 
-![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/d4c42959-3830-44af-b9ae-057be4a49aac)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/833df40b-2130-4c24-9cab-37d63b4d55c6)
 
