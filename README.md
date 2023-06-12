@@ -70,5 +70,18 @@ Modelo-osi
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/d4093ed8-a4e7-46e0-b189-50fb71563a6f)
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/5fee7d5a-b5c2-409e-9614-5aef11d241ad)
 
+## Camada 3 (Rede)
+
+### O que é?
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/f06d48fa-4201-428b-b31c-f79ef5e96926)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/413d86b0-9ac6-4a88-a910-eac274097f0c)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/29f6684c-a5b9-4816-a316-37b7c2d8a2b5)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/c3d0ffc2-8590-4e95-b6e6-aa905382500e)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/dc8baa22-8de5-491c-80d6-e93fc540b978)
+
+
+
+
+
 
 
