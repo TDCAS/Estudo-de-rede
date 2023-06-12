@@ -39,22 +39,29 @@ Modelo-osi
 
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/7262b2e4-b6cf-4ee3-8c7e-f42b68ad2188)
 
-# outros
+### outros
 
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/f3497f74-df6a-4a2a-907a-c795e404a8ef)
 
-# outros
+### outros
 
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/841243a8-5ab0-4cb5-ba6c-7a8bd89525fe)
 
 ## Camada 6 (Apresentação)
 
-# O que é ?
+### O que é ?
 
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/09d2ade5-150b-40ce-bc56-072f86ce50fb)
 
 
-# Protocolos
+### Protocolos
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/5b9750bf-f750-40b5-a56c-bebf98b46013)
+
+## Camada 5 (Sessão)
+
+### O que é?
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/d85cf396-c5c4-4cb2-b640-6d86537ceb05)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/b843d7eb-c68c-4390-9db3-eeaf9810d6e0)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/89eab110-0c6b-48e0-87b9-a3c1536cb23e)
 
 
