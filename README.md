@@ -47,4 +47,14 @@ Modelo-osi
 
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/841243a8-5ab0-4cb5-ba6c-7a8bd89525fe)
 
+## Camada 6 (Apresentação)
+
+# O que é ?
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/09d2ade5-150b-40ce-bc56-072f86ce50fb)
+
+
+# Protocolos
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/5b9750bf-f750-40b5-a56c-bebf98b46013)
+
 
