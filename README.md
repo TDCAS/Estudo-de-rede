@@ -91,6 +91,17 @@ Modelo-osi
 
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/612f35d7-e931-4292-927e-360695e67514)
 
+## Camada 1 (Fisica)
+
+### O que é? 
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/2c676efa-38a7-4026-a382-e63968e5abfb)
+
+### Tecnologias/Meio de comunicação
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/468e05cd-2143-438e-890c-b51d489eaf05)
+
+
 
 
 
