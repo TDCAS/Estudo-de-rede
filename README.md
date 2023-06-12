@@ -64,4 +64,11 @@ Modelo-osi
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/b843d7eb-c68c-4390-9db3-eeaf9810d6e0)
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/89eab110-0c6b-48e0-87b9-a3c1536cb23e)
 
+## Camada 4 (Trasnporte)
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/9eaee8ef-b2d1-4bd9-b5e7-a039e77299c0)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/d4093ed8-a4e7-46e0-b189-50fb71563a6f)
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/5fee7d5a-b5c2-409e-9614-5aef11d241ad)
+
+
 
