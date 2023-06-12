@@ -32,3 +32,19 @@ Modelo-osi
 
 ![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/833df40b-2130-4c24-9cab-37d63b4d55c6)
 
+
+### Protocolos na camada OSI
+
+## Camada 7 (Aplicação)
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/7262b2e4-b6cf-4ee3-8c7e-f42b68ad2188)
+
+# outros
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/f3497f74-df6a-4a2a-907a-c795e404a8ef)
+
+# outros
+
+![image](https://github.com/TDCAS/Estudo-de-rede/assets/53353680/841243a8-5ab0-4cb5-ba6c-7a8bd89525fe)
+
+
